@@ -1,0 +1,16 @@
+body
+{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    color: #d32f2f;
+    margin-top: 2em;
+}
+h3
+{
+    color: black;
+}
+img
+{
+    width: 40%;
+}
